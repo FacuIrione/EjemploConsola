@@ -1,0 +1,14 @@
+C:\Users\agust\source\repos\MiPrimerSolucion\MiPrimerProyecto\bin\Debug\net8.0\MiPrimerProyecto.exe
+C:\Users\agust\source\repos\MiPrimerSolucion\MiPrimerProyecto\bin\Debug\net8.0\MiPrimerProyecto.deps.json
+C:\Users\agust\source\repos\MiPrimerSolucion\MiPrimerProyecto\bin\Debug\net8.0\MiPrimerProyecto.runtimeconfig.json
+C:\Users\agust\source\repos\MiPrimerSolucion\MiPrimerProyecto\bin\Debug\net8.0\MiPrimerProyecto.dll
+C:\Users\agust\source\repos\MiPrimerSolucion\MiPrimerProyecto\bin\Debug\net8.0\MiPrimerProyecto.pdb
+C:\Users\agust\source\repos\MiPrimerSolucion\MiPrimerProyecto\obj\Debug\net8.0\MiPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\source\repos\MiPrimerSolucion\MiPrimerProyecto\obj\Debug\net8.0\MiPrimerProyecto.AssemblyInfoInputs.cache
+C:\Users\agust\source\repos\MiPrimerSolucion\MiPrimerProyecto\obj\Debug\net8.0\MiPrimerProyecto.AssemblyInfo.cs
+C:\Users\agust\source\repos\MiPrimerSolucion\MiPrimerProyecto\obj\Debug\net8.0\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\MiPrimerSolucion\MiPrimerProyecto\obj\Debug\net8.0\MiPrimerProyecto.dll
+C:\Users\agust\source\repos\MiPrimerSolucion\MiPrimerProyecto\obj\Debug\net8.0\refint\MiPrimerProyecto.dll
+C:\Users\agust\source\repos\MiPrimerSolucion\MiPrimerProyecto\obj\Debug\net8.0\MiPrimerProyecto.pdb
+C:\Users\agust\source\repos\MiPrimerSolucion\MiPrimerProyecto\obj\Debug\net8.0\MiPrimerProyecto.genruntimeconfig.cache
+C:\Users\agust\source\repos\MiPrimerSolucion\MiPrimerProyecto\obj\Debug\net8.0\ref\MiPrimerProyecto.dll
